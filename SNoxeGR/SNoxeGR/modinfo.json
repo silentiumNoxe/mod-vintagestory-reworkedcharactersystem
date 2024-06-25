@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "modid": "snxg_charsys",
+    "name": "Reworked Character System",
+    "authors": [
+        "silentium.noxe"
+    ],
+    "description": "New vision of vanilla character traits",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": ""
+    }
+}
